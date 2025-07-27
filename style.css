@@ -1,0 +1,23 @@
+body {
+    background-color: lightblue;
+  margin: 0 auto;
+    max-width: 1000px;
+}
+h1 {
+    color: darkblue;
+     text-align: center;
+}
+
+b{
+    color: white;
+    background-color: blue;
+}
+
+footer{
+    background-color: darkblue;
+    color: aqua;
+}
+
+p {
+    background-color: aqua;
+}
